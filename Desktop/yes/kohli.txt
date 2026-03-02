@@ -1,2 +1,2 @@
 print("Hello world")
-print("VVCE College Mysore ise")
+print("Vidhyavardhaka")
